@@ -1,13 +1,13 @@
 
-/* Day 24: Let's create a simple GUI with Tkinter.
- *
- *  **Task 1**: Create a basic window with the title "My First GUI".
- *  **Task 2**: Add a button labeled "Click Me" and a label that initially displays "Hello!".
- *  **Task 3**:  Implement a function that handles the button click and changes the label text to "Button Clicked!".
- *
- * LICENSE: ALL RIGHTS RESERVED (C) 2024 @OpenEdu <git: openeduhq> @Himanshu <git: himanshu-at>
- *
- **/
+# /* Day 24: Let's create a simple GUI with Tkinter.
+#  *
+#  *  **Task 1**: Create a basic window with the title "My First GUI".
+#  *  **Task 2**: Add a button labeled "Click Me" and a label that initially displays "Hello!".
+#  *  **Task 3**:  Implement a function that handles the button click and changes the label text to "Button Clicked!".
+#  *
+#  * LICENSE: ALL RIGHTS RESERVED (C) 2024 @OpenEdu <git: openeduhq> @Himanshu <git: himanshu-at>
+#  *
+#  **/
 
 from tkinter import Tk, Button, Label
 

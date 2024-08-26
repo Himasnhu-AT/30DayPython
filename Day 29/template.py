@@ -1,12 +1,12 @@
 
-/* DAY 29:  Python Consolidation - Review and Practice
+# /* DAY 29:  Python Consolidation - Review and Practice
 
- * This day is all about reinforcing your understanding of key Python concepts.
- * Try implementing code snippets that demonstrate each topic. 
+#  * This day is all about reinforcing your understanding of key Python concepts.
+#  * Try implementing code snippets that demonstrate each topic.
 
- * LICENSE: ALL RIGHTS RESERVED (C) 2024 @OpenEdu <git: openeduhq> @Himanshu <git: himanshu-at>
- *
- **/
+#  * LICENSE: ALL RIGHTS RESERVED (C) 2024 @OpenEdu <git: openeduhq> @Himanshu <git: himanshu-at>
+#  *
+#  **/
 
 # Data Structures
 

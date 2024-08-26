@@ -1,17 +1,17 @@
 
-/* DAY 17: Working with Dates and Times using the 'datetime' module.
- *
- * **Objective:**
- * - Write functions for retrieving, parsing, formatting, and manipulating dates and times.
- *
- * **Instructions:**
- * - Complete the provided functions below.
- * - Refer to the sample implementation for guidance.
- * - Run the tests to check the correctness of your code.
- *
- * **LICENSE: ALL RIGHTS RESERVED (C) 2024 @OpenEdu <git: openeduhq> @Himanshu <git: himanshu-at>
- *
- **/
+# /* DAY 17: Working with Dates and Times using the 'datetime' module.
+#  *
+#  * **Objective:**
+#  * - Write functions for retrieving, parsing, formatting, and manipulating dates and times.
+#  *
+#  * **Instructions:**
+#  * - Complete the provided functions below.
+#  * - Refer to the sample implementation for guidance.
+#  * - Run the tests to check the correctness of your code.
+#  *
+#  * **LICENSE: ALL RIGHTS RESERVED (C) 2024 @OpenEdu <git: openeduhq> @Himanshu <git: himanshu-at>
+#  *
+#  **/
 
 from datetime import datetime, timedelta
 

@@ -1,13 +1,13 @@
 
-/* DAY 15: Let's explore the power of Regular Expressions.
- *
- * We'll learn about regular expression syntax and apply them to pattern matching and text extraction.
- *
- * Create code to test five different patterns against five given strings. Use Python's 're' module and print the output in the specified format.
- *
- * LICENSE: ALL RIGHTS RESERVED (C) 2024 @OpenEdu <git: openeduhq> @Himanshu <git: himanshu-at>
- *
- **/
+# /* DAY 15: Let's explore the power of Regular Expressions.
+#  *
+#  * We'll learn about regular expression syntax and apply them to pattern matching and text extraction.
+#  *
+#  * Create code to test five different patterns against five given strings. Use Python's 're' module and print the output in the specified format.
+#  *
+#  * LICENSE: ALL RIGHTS RESERVED (C) 2024 @OpenEdu <git: openeduhq> @Himanshu <git: himanshu-at>
+#  *
+#  **/
 
 import re
 
@@ -35,4 +35,3 @@ print(f"Is '{pattern_two}' present in '{test_string_two}': ")
 print(f"Is '{pattern_three}' present in '{test_string_three}': ")
 print(f"Is '{pattern_four}' present in '{test_string_four}': ")
 print(f"Is '{pattern_five}' present in '{test_string_five}': ")
-
